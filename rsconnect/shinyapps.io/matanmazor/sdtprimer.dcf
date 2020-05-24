@@ -1,0 +1,12 @@
+name: sdtprimer
+title:
+username:
+account: matanmazor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 981900
+bundleId: 3183703
+url: https://matanmazor.shinyapps.io/sdtprimer/
+when: 1590304843.42412
+asMultiple: FALSE
+asStatic: FALSE
